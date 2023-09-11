@@ -4,6 +4,7 @@
   "title": "seqre's QoL Mashup",
   "author": "seqre",
   "description": "Mashup of many QoL and few small adding new stuff mods I think greatly improve the game experience",
+  "factorio_version": "1.1",
   "dependencies": [
     "DiscoScience",
     "LightedPolesPlus",
