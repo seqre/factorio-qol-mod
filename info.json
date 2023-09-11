@@ -1,0 +1,30 @@
+{
+  "name": "seqres-qol-mashup",
+  "version": "0.0.1",
+  "title": "seqre's QoL Mashup",
+  "author": "seqre",
+  "description": "Mashup of many QoL and few small adding new stuff mods I think greatly improve the game experience",
+  "dependencies": [
+    "DiscoScience",
+    "LightedPolesPlus",
+    "LtnManager",
+    "Noxys_Trees",
+    "factoryplanner",
+    "YARM",
+    "pump",
+    "extended-descriptions",
+    "belt-visualizer",
+    "ltn-cleanup",
+    "AutoDeconstruct",
+    "DoingThingsByHand",
+    "RateCalculator",
+    "mining-patch-planner",
+    "GUI_Unifyer",
+    "PipeVisualizer",
+    "playtime",
+    "Bottleneck",
+    "LogisticTrainNetwork",
+    "even-distribution",
+    "Squeak Through"
+  ]
+}
