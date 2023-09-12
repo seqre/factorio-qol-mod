@@ -1,5 +1,13 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.1.0
+Version: 0.0.2
 Date: 2023/09/11
-  Major Features:
+  Features:
+    - Added opinionated defaults.
+  Changes:
+    - Removed "playtime" mod.
+    - Added "Module Inserter" mod.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2023/09/11
+  Info:
     - Initial release.

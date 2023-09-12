@@ -1,9 +1,9 @@
 {
   "name": "seqres-qol-mashup",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "seqre's QoL Mashup",
   "author": "seqre",
-  "description": "Mashup of many QoL and few small adding new stuff mods I think greatly improve the game experience",
+  "description": "Mashup of many QoL and a few other mods with opinionated defaults I think significantly improves the game experience!",
   "factorio_version": "1.1",
   "dependencies": [
     "DiscoScience",
