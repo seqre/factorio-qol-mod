@@ -25,6 +25,7 @@
     "Bottleneck",
     "LogisticTrainNetwork",
     "even-distribution",
-    "Squeak Through"
+    "Squeak Through",
+    "ModuleInserter"
   ]
 }

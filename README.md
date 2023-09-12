@@ -24,6 +24,7 @@ Mashup of many QoL and a few other mods with opinionated defaults I think signif
 - [YARM - Resource Monitor](https://mods.factorio.com/mod/YARM)
 - [P.U.M.P.](https://mods.factorio.com/mod/pump)
 - [Auto Deconstruct](https://mods.factorio.com/mod/AutoDeconstruct)
+- [Module Inserter](https://mods.factorio.com/mod/ModuleInserter)
 
 ### Small game changers
 - [Noxys Trees](https://mods.factorio.com/mod/Noxys_Trees)
@@ -33,6 +34,5 @@ Mashup of many QoL and a few other mods with opinionated defaults I think signif
 ### Visual changes
 - [Disco Science](https://mods.factorio.com/mod/DiscoScience)
 - [GUI Unifyer](https://mods.factorio.com/mod/GUI_Unifyer)
-- [Playtime](https://mods.factorio.com/mod/playtime)
 
 
