@@ -1,6 +1,6 @@
 # seqre's QoL Mashup
 
-Mashup of many QoL and a few other mods I think significantly improves the game experience!
+Mashup of many QoL and a few other mods with opinionated defaults I think significantly improves the game experience!
 
 ## Included Mods
 
