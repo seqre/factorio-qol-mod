@@ -25,6 +25,7 @@
     "LogisticTrainNetwork",
     "even-distribution",
     "Squeak Through",
-    "ModuleInserter"
+    "ModuleInserter",
+    "textplates"
   ]
 }

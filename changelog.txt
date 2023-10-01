@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: UNRELEASED
 Date: 2023/10/1
+  Features:
+    - Added "Text Plates" mod.
   Changes:
     - Removed "Lighted Electric Poles +" mod.
     - Replaced "Bottleneck" with "Bottleneck Lite".
