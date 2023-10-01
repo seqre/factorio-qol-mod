@@ -37,4 +37,7 @@ Mashup of many QoL and a few other mods with opinionated defaults I think signif
 - [Disco Science](https://mods.factorio.com/mod/DiscoScience)
 - [GUI Unifyer](https://mods.factorio.com/mod/GUI_Unifyer)
 
+### Small additions
+- [Milestones](https://mods.factorio.com/mod/Milestones)
+
 
