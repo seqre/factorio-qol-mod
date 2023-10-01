@@ -7,6 +7,7 @@ Date: 2023/10/1
     - Added "Informatron" mod.
     - Added "Milestones" mod.
     - Added "Recipe Book" mod.
+    - Added "Solar Calculator" mod.
   Changes:
     - Removed "Lighted Electric Poles +" mod.
     - Replaced "Bottleneck" with "Bottleneck Lite".

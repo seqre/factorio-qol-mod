@@ -11,6 +11,7 @@ Mashup of many QoL and a few other mods with opinionated defaults I think signif
 - [Squeak Through](https://mods.factorio.com/mod/Squeak%20Through)
 - [Informatron](https://mods.factorio.com/mod/informatron)
 - [Recipe Book](https://mods.factorio.com/mod/RecipeBook)
+- [Solar Calculator](https://mods.factorio.com/mod/solar-calc)
 
 ### LTN
 - [LTN - Logistic Train Network](https://mods.factorio.com/mod/LogisticTrainNetwork)
