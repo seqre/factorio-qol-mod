@@ -6,7 +6,7 @@ Mashup of many QoL and a few other mods with opinionated defaults I think signif
 
 ### Pure QoL
 - [Extended Descriptions ⚡](https://mods.factorio.com/mod/extended-descriptions)
-- [Bottleneck](https://mods.factorio.com/mod/Bottleneck)
+- [Bottleneck Lite](https://mods.factorio.com/mod/BottleneckLite)
 - [Even Distribution](https://mods.factorio.com/mod/even-distribution)
 - [Squeak Through](https://mods.factorio.com/mod/Squeak%20Through)
 
