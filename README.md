@@ -9,6 +9,7 @@ Mashup of many QoL and a few other mods with opinionated defaults I think signif
 - [Bottleneck Lite](https://mods.factorio.com/mod/BottleneckLite)
 - [Even Distribution](https://mods.factorio.com/mod/even-distribution)
 - [Squeak Through](https://mods.factorio.com/mod/Squeak%20Through)
+- [Informatron](https://mods.factorio.com/mod/informatron)
 
 ### LTN
 - [LTN - Logistic Train Network](https://mods.factorio.com/mod/LogisticTrainNetwork)
