@@ -4,14 +4,16 @@ Mashup of many QoL and a few other mods with opinionated defaults I think signif
 
 ## Included Mods
 
-### Pure QoL
+### Information
 - [Extended Descriptions ⚡](https://mods.factorio.com/mod/extended-descriptions)
-- [Bottleneck Lite](https://mods.factorio.com/mod/BottleneckLite)
-- [Even Distribution](https://mods.factorio.com/mod/even-distribution)
-- [Squeak Through](https://mods.factorio.com/mod/Squeak%20Through)
 - [Informatron](https://mods.factorio.com/mod/informatron)
 - [Recipe Book](https://mods.factorio.com/mod/RecipeBook)
 - [Solar Calculator](https://mods.factorio.com/mod/solar-calc)
+
+### QoL
+- [Bottleneck Lite](https://mods.factorio.com/mod/BottleneckLite)
+- [Even Distribution](https://mods.factorio.com/mod/even-distribution)
+- [Squeak Through](https://mods.factorio.com/mod/Squeak%20Through)
 
 ### LTN
 - [LTN - Logistic Train Network](https://mods.factorio.com/mod/LogisticTrainNetwork)
