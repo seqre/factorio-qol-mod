@@ -6,6 +6,7 @@ Date: 2023/10/1
     - Added "Bullet Trails" mod.
     - Added "Informatron" mod.
     - Added "Milestones" mod.
+    - Added "Recipe Book" mod.
   Changes:
     - Removed "Lighted Electric Poles +" mod.
     - Replaced "Bottleneck" with "Bottleneck Lite".

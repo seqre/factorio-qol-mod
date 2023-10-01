@@ -10,6 +10,7 @@ Mashup of many QoL and a few other mods with opinionated defaults I think signif
 - [Even Distribution](https://mods.factorio.com/mod/even-distribution)
 - [Squeak Through](https://mods.factorio.com/mod/Squeak%20Through)
 - [Informatron](https://mods.factorio.com/mod/informatron)
+- [Recipe Book](https://mods.factorio.com/mod/RecipeBook)
 
 ### LTN
 - [LTN - Logistic Train Network](https://mods.factorio.com/mod/LogisticTrainNetwork)
