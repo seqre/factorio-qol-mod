@@ -29,7 +29,6 @@ Mashup of many QoL and a few other mods with opinionated defaults I think signif
 ### Small game changers
 - [Noxys Trees](https://mods.factorio.com/mod/Noxys_Trees)
 - [Doing Things By Hand](https://mods.factorio.com/mod/DoingThingsByHand)
-- [Lighted Electric Poles +](https://mods.factorio.com/mod/LightedPolesPlus)
 
 ### Visual changes
 - [Disco Science](https://mods.factorio.com/mod/DiscoScience)
